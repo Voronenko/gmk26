@@ -13,6 +13,18 @@ Credits: https://github.com/humanplayer2/mkmods/tree/main/premade/Zuoya_GMK26
 ## Introduction
 
 
+Vendor website:  http://www.zuoya.top/
+
+Recommended place to obtain VIA app, per vendor docs,  https://github.com/WestBerryVIA/via-releases/releases/tag/v3.0.0
+
+
+VIA app, per internet,  https://github.com/the-via/releases/
+
+Also web app might work:  https://usevia.app/
+
+
+
+
 ![0](images/0.jpg)
 
 More photos in the bottom.
